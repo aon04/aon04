@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**AoN-Dev/AoN-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aljon, a data engineer and machine learning engineer based in the Philippines.
 
-Here are some ideas to get you started:
+I currently work as a Data Engineer, where I build scalable data pipelines and analytics systems using Python, SQL, and cloud platforms like Google Cloud, AWS, and Azure. Previously, I worked across roles including Machine Learning Engineer, Software Engineer, and Flutter Developer, building applications and data systems that power real-world products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm fascinated by large-scale data systems, machine learning infrastructure, and high-impact technology. I’ve worked on projects involving data platforms, ETL pipelines, analytics engineering, and deep learning models, including building CNN models for crop anomaly detection.
+
+Outside of work, I'm interested in artificial intelligence, distributed systems, and the future of machine learning. I enjoy building tech projects, experimenting with new tools, and continuously learning about emerging technologies.
+
+Let's connect!
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aljon%20Inting-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aljon-inting)
+
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=for-the-badge&logo=medium)]([https://medium.com/@jonting145)
