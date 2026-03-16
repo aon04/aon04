@@ -11,6 +11,6 @@ Outside of work, I'm interested in artificial intelligence, distributed systems,
 Let's connect!
 
 
-[[](https://img.shields.io/badge/LinkedIn-LinkedIN%20-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aljon-inting)
+[![](https://img.shields.io/badge/LinkedIn-LinkedIN%20-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aljon-inting)
 
 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=for-the-badge&logo=medium)]([https://medium.com/@jonting145)
