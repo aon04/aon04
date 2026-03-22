@@ -6,7 +6,7 @@ I currently work as a Data Engineer, where I build scalable data pipelines and a
 
 I'm fascinated by large-scale data systems, machine learning infrastructure, and high-impact technology. I’ve worked on projects involving data platforms, ETL pipelines, analytics engineering, and deep learning models, including building CNN models for crop anomaly detection.
 
-Outside of work, I'm interested in artificial intelligence, distributed systems, and the future of machine learning. I enjoy building tech projects, experimenting with new tools, and continuously learning about emerging technologies.
+Outside of work, I enjoy unwinding by playing video games, exploring new places through travel, and taking time to relax and recharge.
 
 Let's connect!
 
