@@ -1,6 +1,6 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-I'm Aljon, a data engineer and machine learning engineer based in the Philippines. (Soon to be farmer ☺︎)
+I'm Aljon, I.T Professional based in the Philippines. (Soon to be farmer ☺︎)
 ##
 I currently work as a Data Engineer, where I build scalable data pipelines and analytics systems using Python, SQL, and cloud platforms. Previously, I worked across roles including Machine Learning Engineer, Software Engineer, and Flutter Developer, building applications and data systems that power real-world products.
 
