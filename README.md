@@ -4,7 +4,7 @@ I'm Aljon, I.T Professional based in the Philippines. (Soon to be farmer ☺︎)
 ##
 I currently work as a Data Engineer, where I build scalable data pipelines and analytics systems using Python, SQL, and cloud platforms. Previously, I worked across roles including Machine Learning Engineer, Software Engineer, and Flutter Developer, building applications and data systems that power real-world products.
 
-I'm fascinated by large-scale data systems, machine learning infrastructure, and high-impact technology. I’ve worked on projects involving data platforms, ETL pipelines, analytics engineering, and deep learning models, including building CNN models for crop anomaly detection.
+I'm fascinated by large-scale data systems, machine learning infrastructure, and high-impact technology. I’ve worked on projects involving data platforms, ETL pipelines, analytics engineering, and deep learning models.
 
 Outside of work, I enjoy unwinding by playing video games, exploring new places through travel, and taking time to relax and recharge.
 
